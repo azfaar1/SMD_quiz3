@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import ProductCard from './components/ProductCardX';
+import ProductCard from './components/ProductCard';
 
 const PRODUCTS = [
   { id: '1', name: 'Wireless Headphones', price: 59 },
